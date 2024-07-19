@@ -12,6 +12,7 @@ nav a {
 }
 #hero-msg h1, #hero-msg h4{
     text-align: center;
+    color: coral;
 }
 .button-box {
     text-align: center;
@@ -229,4 +230,37 @@ footer {
     footer {
         margin-top: 25px;
     }
+}
+d {
+    margin-bottom: 20px; 
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+.page-2 {
+    text-align: center;
+    margin-top: 20px; 
+}
+.page-2 img {
+    display: inline-block;
+    max-width: 100%; 
+}
+d {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.page-2 {
+    text-align: center;
+    margin-top: 20px;
+}
+.page-2 img {
+    display: inline-block;
+    max-width: 100%;
+}
+#content2 {
+background-color: rgb(235, 246, 84);
+padding-bottom: 25px;
 }
